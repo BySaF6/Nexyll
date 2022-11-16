@@ -16,3 +16,15 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.eventos-contenedor{
+  display: flex;
+  flex-wrap: wrap;
+}
+.event-card{
+  height: 200px;
+  width: 140px;
+  background-color: blue;
+  margin: 10px;
+  border-radius: 12px;
+}

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\samar\\.nuget\\packages\\": {}
+    "C:\\Users\\A8-PC100\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samar\\OneDrive\\Documentos\\1_Proyectos\\Clase\\Alex\\Nexyll\\Nexyll.csproj",
+      "projectUniqueName": "C:\\Users\\A8-PC100\\Documents\\Nexyll\\Nexyll.csproj",
       "projectName": "Nexyll",
-      "projectPath": "C:\\Users\\samar\\OneDrive\\Documentos\\1_Proyectos\\Clase\\Alex\\Nexyll\\Nexyll.csproj",
-      "packagesPath": "C:\\Users\\samar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samar\\OneDrive\\Documentos\\1_Proyectos\\Clase\\Alex\\Nexyll\\obj\\",
+      "projectPath": "C:\\Users\\A8-PC100\\Documents\\Nexyll\\Nexyll.csproj",
+      "packagesPath": "C:\\Users\\A8-PC100\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A8-PC100\\Documents\\Nexyll\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\samar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\A8-PC100\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
